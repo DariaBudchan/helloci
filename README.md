@@ -1,4 +1,4 @@
-helloci
+HelloCI
 =======
 
 Test projects for Git training
